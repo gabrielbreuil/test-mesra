@@ -1,0 +1,61 @@
+
+            ********************
+            *                  *
+            *  MESRA software  *
+            *                  *
+            ********************
+
+ Jobtype: qm_NI                                                                                                                           
+
+ 1. Integration of detachment and attachment densities
+  
+ Integral of detachment density 
+       1.0177
+  
+ Integral of attachment density 
+       1.0186
+  
+ 2. Charge from n-/n+ densities
+  
+ chi- from negative density variation is 
+       0.7494
+  
+ chi+ from positive density variation is 
+       0.7503
+  
+ chi and phi integrals
+       0.7498       0.7365
+  
+ 3. Centroid coordinates (bohr) from n-/n+ densities, zeta(+/-) 
+  
+ Negative centroid coordinates
+       1.4505       2.9104      -0.0002
+  
+ Positive centroid coordinates
+      -1.9162      -3.8464      -0.0031
+  
+ CT distance from p-/p+ in Bohr and Angstrom
+       7.5491       3.9948
+  
+ 4. Centroid coordinates (bohr) from D/A, zeta
+  
+ Detachment density centroid coordinates
+       1.0624       2.1314      -0.0002
+  
+ Attachment density centroid coordinates
+      -1.4171      -2.8449      -0.0024
+  
+ CT distance from D/A in Bohr and Angstrom
+       5.5599       2.9422
+  
+ 5. phiS (D/A overlap) and psi indices calculation
+  
+ phiS integral value
+       0.5985
+  
+ psi descriptor value
+       0.4344
+  
+ NB: Centroid coordinates are given with respect 
+ to the cube used for the numerical integration
+  
